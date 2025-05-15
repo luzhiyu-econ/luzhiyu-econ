@@ -5,8 +5,7 @@ I'm an undergraduate student at the Central University of Finance and Economics,
 * 🌱 Currently deepening my expertise in **Econometrics, Political Economy, and Deep Learning frameworks (TensorFlow/PyTorch)**.
 * 🔭 My current thesis research involves **applying Large Language Models (LLMs) to streamline data processing and analysis in Economic Research**. Follow the project at [EconLLM-Lab](https://github.com/luzhiyu-econ/EconLLM-Lab).
 * 🛠️ I've also developed several tools to support academic research:
-    * [JournalFetcher](https://github.com/luzhiyu-econ/JournalFetcher): A tool to [**add a brief 1-line description, e.g., "automate downloading journal articles from specific sources"**].
-    * [PDF-Translator](https://github.com/luzhiyu-econ/PDF-Translator): A utility for [**add a brief 1-line description, e.g., "translating text within PDF documents while preserving layout"**].
+    * [JournalFetcher](https://github.com/luzhiyu-econ/JournalFetcher): A tool to download journal papers using Gemini.
 * 👯 I'm open to collaborating on innovative projects in political economics, applied AI in economics research.
 * 😄 Pronouns: He/Him
     
