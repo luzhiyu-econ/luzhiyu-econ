@@ -15,7 +15,7 @@ I'm an undergraduate student at the Central University of Finance and Economics,
 
 * **Programming:** Python, R, C
 * **Machine Learning / Deep Learning:** TensorFlow, PyTorch, Pandas, NumPy
-* **Language:** Chinese(Native), English(Proficient), Japanese(Basic), Russia(Basic)
+* **Language:** Chinese(Native), English(Proficient), Japanese(Basic), Russian(Basic)
 * **Other:** LaTeX, Stata
 ---
 
