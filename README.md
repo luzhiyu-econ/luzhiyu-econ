@@ -15,9 +15,7 @@ I'm an undergraduate student at the Central University of Finance and Economics,
 
 * **Programming:** Python, R, C
 * **Machine Learning / Deep Learning:** TensorFlow, PyTorch, Pandas, NumPy
-* **Data Visualization:** Matplotlib, Seaborn
-* **Developer Tools:** Git, GitHub, Jupyter Notebooks
-* **Other:** LaTeX, Markdown, Stata
+* **Other:** LaTeX, Stata
 ---
 
 ### 📫 Let's Connect!
