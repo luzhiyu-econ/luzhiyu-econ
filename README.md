@@ -14,7 +14,7 @@ I'm an undergraduate student at the Central University of Finance and Economics,
 ### 🛠️ Tech Stack & Skills
 
 * **Programming:** Python, R, C
-* **Machine Learning / Deep Learning:** TensorFlow, PyTorch, Pandas, NumPy
+* **Machine Learning / Deep Learning:** TensorFlow, PyTorch
 * **Language:** Chinese(Native), English(Proficient), Japanese(Basic), Russian(Basic)
 * **Other:** LaTeX, Stata
 ---
